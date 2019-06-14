@@ -34,9 +34,11 @@ Take a look at horizon's :doc:`top features <feature-overview>`, just :doc:`try 
    tools
    spacebar-menu
    grid
+   entries
    drawing
    selection
    move
+   layers
 
 .. toctree::
    :maxdepth: 2
@@ -76,4 +78,5 @@ Take a look at horizon's :doc:`top features <feature-overview>`, just :doc:`try 
    parameter-programs
    theory-of-operation
    cli-usage
+   python
 
