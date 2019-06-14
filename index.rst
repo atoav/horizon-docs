@@ -63,6 +63,7 @@ Take a look at horizon's :doc:`top features <feature-overview>`, just :doc:`try 
    pool-mgr
    create-package
    pool-contribute
+   pool-with-git
    
 
 
