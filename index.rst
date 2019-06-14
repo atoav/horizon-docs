@@ -33,6 +33,7 @@ Take a look at horizon's :doc:`top features <feature-overview>`, just :doc:`try 
 
    tools
    spacebar-menu
+   navigation
    grid
    entries
    drawing

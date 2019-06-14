@@ -11,4 +11,4 @@ You can easily customize these shortcuts in the preferences window.
 
 
 
-Next: :doc:`Grid<grid>`
+Next: :doc:`Navigation<navigation>`
